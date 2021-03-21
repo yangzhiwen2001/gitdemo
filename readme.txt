@@ -4,3 +4,4 @@ different
 add one line content
 git changes content
 one
+create a new branch is quick and simple !
