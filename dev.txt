@@ -1,2 +1,2 @@
 Hello,dev
-add a new branch master
+add a new branch mydev1
